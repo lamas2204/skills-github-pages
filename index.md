@@ -12,3 +12,8 @@ layout: default
 - [ ] Convert my first blog post into an actual webpage.
 
 ## Review
+
+## Latest Post
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
