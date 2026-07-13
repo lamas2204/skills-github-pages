@@ -1,6 +1,7 @@
 ---
 title: Daily Learning
 permalink: /
+layout: default
 ---
 
 # Daily Learning

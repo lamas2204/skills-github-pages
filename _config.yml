@@ -1,1 +1,8 @@
+title: Daily Learning
+description: "A simple GitHub Pages site using the Jekyll Minima theme."
+url: "https://lamas2204.github.io/skills-github-pages"
+baseurl: ""
 theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
