@@ -4,7 +4,7 @@ title: Daily Learning
 layout: default
 ---
 
-<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="left" >
+<img alt="Cloudy morning" src="_resources/MchnLrnng.png" width="100" align="left" >
 <br/>
 <br/>
 <br/>
