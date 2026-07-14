@@ -1,10 +1,14 @@
 ---
 title: Daily Learning
-permalink: /
+#permalink: /
 layout: default
 ---
 
-<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="left" >
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Morning Planning
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
@@ -12,6 +16,7 @@ layout: default
 - [ ] Convert my first blog post into an actual webpage.
 
 ## Review
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 ## Latest Post
 {% for post in site.posts %}
