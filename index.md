@@ -4,9 +4,9 @@ title: Daily Learning
 layout: default
 ---
 
-<img alt="Machine Learning" src="_assets/images/MchnLrnng.svg" width="100" align="left" >
-<br/>
-<br/>
+<div style="text-align:center;">
+	<img alt="Machine Learning" src="_assets/images/MchnLrnng.svg" width="100" />
+</div>
 <br/>
 <br/>
 
@@ -19,7 +19,7 @@ layout: default
 >[!NOTE]  
 >The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
->[!TIP]
+>[!TIP]  
 >Stay connect
 
 ## Latest Post
