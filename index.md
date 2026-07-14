@@ -19,6 +19,9 @@ layout: default
 >[!NOTE]  
 >The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
+>[!TIP]
+>Stay connect
+
 ## Latest Post
 {% for post in site.posts %}
 - [{{ post.title }} - {{ post.date | date: "%Y-%m-%d" }}]({{ post.url | absolute_url }})
