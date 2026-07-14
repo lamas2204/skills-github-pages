@@ -15,5 +15,5 @@ layout: default
 
 ## Latest Post
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | absolute_url }})
+- [{{ post.title }} - {{ post.date | date: "%Y-%m-%d" }}]({{ post.url | absolute_url }})
 {% endfor %}
