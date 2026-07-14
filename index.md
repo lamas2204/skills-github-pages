@@ -4,13 +4,13 @@ title: Daily Learning
 layout: default
 ---
 
-<img alt="Machine Learning" src="_resources/MchnLrnng.png" width="100" align="left" >
+<img alt="Machine Learning" src="/assets/images/MchnLrnng.png" width="100" align="left" >
 <br/>
 <br/>
 <br/>
 <br/>
 
-## Morning Planning
+## Planning
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
