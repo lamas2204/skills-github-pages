@@ -4,7 +4,7 @@ title: Daily Learning
 layout: default
 ---
 
-<img alt="Machine Learning" src="_assets/images/MchnLrnng.png" width="100" align="left" >
+<img alt="Machine Learning" src="_assets/images/MchnLrnng.svg" width="100" align="left" >
 <br/>
 <br/>
 <br/>
