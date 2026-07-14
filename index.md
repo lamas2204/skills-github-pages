@@ -4,7 +4,7 @@ title: Daily Learning
 layout: default
 ---
 
-<img alt="Machine Learning" src="/assets/images/MchnLrnng.png" width="100" align="left" >
+<img alt="Machine Learning" src="_assets/images/MchnLrnng.png" width="100" align="left" >
 <br/>
 <br/>
 <br/>
@@ -16,6 +16,7 @@ layout: default
 - [ ] Convert my first blog post into an actual webpage.
 
 ## Review
+[!NOTE]  
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 ## Latest Post
