@@ -16,8 +16,8 @@ layout: default
 - [ ] Convert my first blog post into an actual webpage.
 
 ## Review
-[!NOTE]  
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+>[!NOTE]  
+>The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 ## Latest Post
 {% for post in site.posts %}
