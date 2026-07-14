@@ -5,7 +5,8 @@ layout: default
 ---
 
 <div style="text-align:center;">
-	<img alt="Machine Learning" src="_assets/images/MchnLrnng.svg" width="100" />
+	<img alt="Machine Learning" src="MchnLrnng.svg" width="100" />
+    
 </div>
 <br/>
 <br/>
